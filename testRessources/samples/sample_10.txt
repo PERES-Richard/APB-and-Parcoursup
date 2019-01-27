@@ -1,0 +1,16 @@
+10 5 3
+Geraldine        TELLIER            F 2000-02-25 Saint-Chamond             1 2 3
+Filipe           DAVY               M 2000-08-18 Libourne                  2 1 0
+Brice            MANY               M 1998-12-20 Limoges                   1 2 0
+Erwan            GIRONDE            M 2000-08-24 Nice                      1 2 3
+Roxanne          FERNANDES          F 2001-08-21 Lanester                  2 1 0
+Thomas           BERTHET            M 2001-05-23 Dole                      1 2 3
+Marine           LOZACH             F 2000-01-30 Dijon                     1 2 4
+Clarisse         LEBAILLIF          F 1999-10-28 Avignon                   0 1 3
+Charlène         BENMANSOUR         F 2000-11-24 Marseille                 4 3 1
+Océane           BONNEFOY           F 1999-04-07 Villenave-d'Ornon         2 1 0
+CPGE_Lycée_Bellevue          1 Toulouse                  5 2 9 1 7 4
+Université_Clermont-Auvergne 4 Clermont-Ferrand          10 7 9 1 3 2 5 0 4 6 8
+Université_d’Angers          3 Angers                    8 9 1 3 2 5 0 4 6
+IUT_Chimie                   1 Grenoble                  5 7 0 3 5 8
+IUT_Environnement            1 Reims                     2 6 8

@@ -1,0 +1,124 @@
+100 23 7
+Melvin           CUNY               M 2000-01-19 Paris                      0  1  2  5  8 20 14
+Elisa            MALASSAGNE         F 2000-12-29 Besançon                   6 10  8  5  9  3  4
+Noah             BENARD             M 1999-06-04 Cherbourg-Octeville        5  8  3  4  7  9  6
+Driss            HAY                M 2000-12-17 Angers                     4  5  8  7  3  9  6
+Lucie            LAGNEL             F 1999-06-06 Champs-sur-Marne           0  1  2  5  8 20 15
+Jeanne           MUS                F 2001-07-23 Saint-Germain-en-Laye      5  8  3  4  6  9  7
+Maeva            ROUX               F 2000-12-25 Bagnolet                  21 14 22 18 16 20 19
+Julien           AUBRIOT            M 2001-03-07 Versailles                 0  1  2  5  8 14 20
+Dylan            JOYEUX             M 1999-11-04 Nice                      10  9  6  4  8  5  7
+Ranya            NOURY              F 1998-12-26 Anglet                     7  4  9  5  8  3 10
+Charles          EDMOND             M 2000-11-24 Clermont-Ferrand          18 21 13 19 12 14 16
+Mathieu          COTTAZ             M 2000-12-20 Calais                    22 15 16 19 12 17 21
+Eugénie          BIGER              F 2000-07-04 Angers                     4  5  8  7  3  9  6
+Megane           SAUVANT            F 1998-12-01 Paris                      5  8  3  4  6  9  7
+Léa              BALLON             F 2001-01-15 Marseille                 12 20 13 14 15 22 21
+Lahna            JEAN               F 1999-10-15 Ermont                    17 15 20 13 18 14 16
+Marie            DIDIER             F 1999-10-28 Joué-lès-Tours             4  5  8  3  7  9  6
+Matthew          PARROT             M 2000-07-05 Ajaccio                   10  9  6  4  7  8  5
+Sébastien        JULIEN             M 2000-03-15 Saint-Denis                5  8  3  4  6  9  7
+Cloe             DEMAREZ            F 2000-03-02 Saint-Quentin              1  2  5  8 10  0  3
+Alexandre        LOOS               M 2001-03-12 Toulon                    10  9  6  4  7  8  5
+Kilyan           GERME              M 1999-05-01 Rueil-Malmaison           18 17 14 22 13 12 20
+Imane            GENEVIEVE          F 2001-06-09 Livry-Gargan               8  5  3  4  6  9  7
+Thomas           SCHMITT            M 2001-04-12 Paris                      5  8  3  4  6  9  7
+Célia            RALLO              F 2001-01-24 Taverny                    5  8  3  4  6  9  7
+Olivia           BEQUIN             F 1999-08-30 Liévin                     3  5  8  4  6  9  7
+Flora            GIRAUD             F 2000-03-25 Bayonne                    7  4  9  5  8  3 10
+Nolwenn          TAILLANDIER        F 2000-09-05 La_Celle-Saint-Cloud       0  1  2  5  8 14 20
+Emma             LASSAUX            F 2000-03-31 Charenton-le-Pont          8  5  3  4  6  9  7
+Dylan            CAMBLONG           M 2001-06-13 Rambouillet                5  8  3  4  9  6  7
+Omar             CAILLE             M 1999-07-27 Fresnes                    5  8  3  4  6  9  7
+Laure            MARONNIER          F 2001-03-08 Saint-Germain-en-Laye      5  8  3  4  6  9  7
+Guillaume        LECOT              M 2000-10-21 Fort-de-France            19 16 15 13 20 14 17
+Lydie            COIFFET            F 2000-03-16 L'Haÿ-les-Roses            5  8  3  4  6  9  7
+Laura            JACQUEMIN          F 2000-06-24 Toulouse                   7  9  4 18 12 15 21
+Djibril          BURTIN             M 1998-12-17 Paris                      5  8  3  4  6  9  7
+Ilan             PLAZE              M 1999-12-31 Paris                      5  8  3  4  6  9  7
+Marie            SEGAUD             F 1999-12-07 Bondy                      0  1  2  5  8 20 15
+Eva              LATRA              F 2000-06-04 Sevran                     8  5  3  4  6  9  7
+Inès             LAKEHAL            F 2000-05-03 Ajaccio                   15 12 11 21 14 17 18
+Léa              LESAGE             F 2000-09-05 Sarcelles                  5  8  3  4  6  9  7
+Marina           MALVEZIN           F 2000-06-18 Lorient                    4  7  5  8  3  9  6
+Jeanne           BASTIEN            F 1999-04-16 Le_Lamentin                4  7  1  2  5 13 17
+Erwan            MINASSIAN          M 1999-08-22 Sceaux                     5  8  3  4  6  9  7
+Célia            CABANES            F 1999-12-20 Châtenay-Malabry           5  8  3  4  6  9  7
+Guillaume        LIEBART            M 1999-07-13 Quimper                    4  7  5  8  3  9  6
+Julien           UNIA               M 2002-02-08 Saint-Denis                5  8  3  4  6  9  7
+Perrine          BASTIEN            F 2000-01-26 Gennevilliers              0  1  2  5  8 20 14
+Bryan            PATINET            M 1999-11-22 Saint-Martin-d'Hères       0  1  2  5  8 11 10
+Killian          GIRAUDON           M 1999-12-21 Évreux                     5  8  3  4  7  9  6
+Dounia           BOUTON             F 2000-04-29 Décines-Charpieu           1  2  5  8 10  9 11
+Fiona            LEFEBVRE           F 1999-11-21 Paris                      5  8  3  4  6  9  7
+Florine          GRAND              F 2001-02-18 Saint-Malo                 4  5  8  3  7  9  6
+Stanislas        MARTINEAU          M 1999-10-26 Créteil                   17 20 15 14 18 21 12
+Clémentine       ROUX               F 2000-07-08 Asnières-sur-Seine         0  1  2  5  8 20 14
+Noe              BOCQUET            M 2001-03-15 Le_Chesnay                 1  2  5  8  3 14 20
+Lily             VINCENT            F 2000-11-27 Les_Abymes                 5  8  4  3  9  7  6
+Antony           CHANUDET           M 2000-08-18 Paris                      1  2  5  8 10 20 14
+Dimitri          CALMEJANE          M 2001-09-03 Saint-Denis                5  8  3  4  6  9  7
+Pierre           BALME              M 2000-07-11 Valence                   22 13 15 11 14 20 21
+Léa              DEBRUILLE          F 2000-02-07 Troyes                     1  2  5  8 10 15 20
+Sofiane          MARCHAND           M 2000-03-26 Livry-Gargan               8  5  3  4  6  9  7
+Léa              QUINIOU            F 2000-08-03 Lille                      3  5  8  4  6  9  7
+Natacha          BAUDU              F 2000-11-20 Paris                      0  1  2  5  8 20 14
+Imane            JOUBE              F 2000-06-03 Saint-Médard-en-Jalles     7  4  9  5  8  3 10
+Perrine          LEON               F 2000-02-09 Villenave-d'Ornon          7  4  9  5  8  3 10
+Marine           LEMAZURIER         F 2001-04-01 Rueil-Malmaison            5  8  3  4  6  9  7
+Camille          CLAUDEL            F 1999-12-14 Montpellier                9  4 10  7  8  6  5
+Karim            DUVAUCHELLE        M 1999-01-07 Mont-de-Marsan             7  4  9  8  5  3 10
+Constance        FERRI              F 2001-10-19 Le_Mans                    5  8  4  3  7  9  6
+Emma             LEJARD             F 2000-09-16 Fréjus                    10  9  6  4  8  5  7
+Damien           VEROVE             M 2001-03-10 Rosny-sous-Bois           19 20 13 14 15 12 17
+Jennifer         DROUET             F 2000-01-03 Savigny-le-Temple         22 14 17 12 18 11 13
+Corentin         TOURDOT            M 2001-02-22 Avignon                    9 10  4  6  7  8  5
+Gael             SAUQUET            M 2001-08-11 Marseille                  9 10  4  6  7  8  5
+Mailys           LETORT             F 2000-12-21 Malakoff                   5  8  3  4  6  9  7
+Julien           MITTEAU            M 2001-04-07 La_Valette-du-Var         11 10  9 22 18 12 14
+Jasmine          MERIGOT            F 2000-06-15 Paris                      5  8  3  4  6  9  7
+Marina           FLAUSS             F 2000-06-27 Fréjus                    10  9 11  0  1  6 22
+Livio            LEJEUNE            M 2001-01-22 Ajaccio                   10  9  6  4  7  8  5
+Karine           FERNANDES          F 1999-10-04 Marseille                 10  9 11  0  1  4  6
+Marjorie         AREND              F 2000-10-21 Saint-Maur-des-Fossés      8  5  3  4  6  9  7
+Adrien           LARREGAIN          M 1999-11-26 Anglet                     7  4  9  5  8  3 10
+Lisa             RIOU               F 2000-12-11 Paris                      5  8  3  4  6  9  7
+Maeva            HAMON              F 1999-07-30 Reims                      8  3  5  6  4  9 10
+Sophie           MEIGNAN            F 2000-04-18 Grasse                    10  9  6  4  8  5  7
+Marie            ROZIER             F 2002-02-08 Chatou                    13 16 12 20 18 17 19
+Eva              MESTRE             F 2000-01-17 Saint-Denis                5  8  3  4  6  9  7
+Corentin         FERNANDES          M 2000-11-12 Lambersart                 3  5  8  4  6  9  7
+Samir            CANU               M 2000-07-03 Paris                      5  8  3  4  6  9  7
+Kamelia          GACEM              F 2000-01-10 Saint-Maur-des-Fossés      0  1  2  5  8 20 15
+Benoît           PUCCI              M 2000-04-12 Fort-de-France             3  5  8  4  6  9  7
+Eric             METAYER            M 1998-09-29 Rambouillet                5  8  3  4  9  6  7
+Julie            BON                F 2000-10-30 Vierzon                    4  8  5  3  9  7  6
+Tarik            LEGUENNEC          M 2000-10-01 Rosny-sous-Bois            8  5  3  4  6  9  7
+Laura            LANDELLE           F 2000-05-17 Montpellier               11  9 16 14 22 19 17
+Julie            JAUFFRET           F 1999-11-14 Villeneuve-la-Garenne      5  8  3  4  6  9  7
+Jeanne           BODO               F 2000-11-01 Villiers-le-Bel            5  8  3  4  6  9  7
+Antoine          LEGALL             M 2000-04-07 Salon-de-Provence         11 10  9 20 22 15 17
+Théo             COLLETTE           M 1999-05-30 Les_Mureaux                5  8  3  4  6  9  7
+CPGE_Lycée_Faidherbe                       6 Lille                     13 37 54 63 80  7  4  0 48 47 27 90 78 19
+CPGE_Lycée_Lakanal                         3 Sceaux                    18 37 54 63 80  7  4  0 42 48 57 47 60 27 90 50 55 78 19
+CPGE_Lycée_François-Ier                    2 Le_Havre                  16 37 54 63  7  4  0 42 48 57 47 60 27 90 50 55 19
+Université_du_Littoral-Côte-d’Opale        4 Lille                     58 19 45 68 55 28 16 92  3 56 88  1 22 24 94 93 40  2 81 62 52 69 30 29 13 43 64 84 44 91 96 38 87 41 75 23 26 77 99 89 35 33 25 66 12 83 97 65 61  5 82  9 46 51 31 58 49 18 36
+Université_de_Limoges                      7 Limoges                   68 80 42 67 45 68 74 28 20 16 92  3 56 88  1 22 70 24 94 93 40  2 17 81 62 52 69 30 85 29 13 43 64 84 44 91 96 38 87 41 75 23 26 77 99 89 35 73 33 25 66 12 83 97 65  8 61  5 82  9 79 46 51 31 58 49 18 36 34
+Université_Panthéon-Sorbonne              20 Paris                     81 37  7 54 47 63 48 27 50  4 60 42 57 90  0 67 19 45 68 55 74 28 20 16 92  3 56 88  1 22 70 24 94 93 40  2 17 81 62 52 69 30 85 29 13 43 64 84 44 91 96 38 87 41 75 23 26 77 99 89 35 73 33 25 66 12 83 97 65  8 61  5 82  9 79 46 51 31 58 49 18 36
+Université_de_Haute-Alsace                 4 Mulhouse                  61 80 78 67 45 74 28 20 16 92  3 56 88  1 22 70 24 94 93 40  2 17 81 62 52 69 30 85 29 13 43 84 44 91 96 38 87 41 75 23 77 99 89 35 73 33 25 66 12 83 97  8 61  5 79 46 51 31 58 49 18 36
+Université_de_Pau_et_des_Pays_de_l’Adour   6 Pau                       65 42 67 45 68 74 28 20 16 92  3 56 88 22 70 24 94 93 40  2 17 81 62 52 69 30 85 29 13 43 64 44 91 96 38 87 41 75 23 26 77 99 89 35 73 33 25 66 12 83 97 65  8 61  5 82  9 79 46 51 31 58 49 18 36 34
+Université_Paris-Est-Créteil-Val-de-Marne 13 Créteil                   80 37  7 54 47 63 48 27 50  4 60 57 90  0 67 19 45 68 55 74 28 20 16 92  3 56 88  1 22 70 24 94 93 40  2 17 81 62 52 69 30 85 29 13 43 64 84 44 91 96 38 87 41 75 23 26 77 99 89 35 73 33 25 66 12 83 97 65  8 61  5 82  9 79 46 51 31 58 49 18 36
+Université_Paul-Valéry                     9 Montpellier               72 80 50 78 67 45 68 74 28 20 16 92  3 56 88  1 22 70 24 94 93 40  2 17 81 62 52 69 30 85 29 13 43 64 84 44 91 96 38 87 41 75 23 26 77 99 89 35 73 33 25 66 12 83 97 65  8 61  5 82  9 79 46 51 31 58 49 18 36 95 98 34 76
+Université_Nice_Sophia_Antipolis          13 Nice                      26 80 48 50 60 78 57 67 19 68 74 20  1 70 17 85 64 84 26 73 65  8 82  9 79 98 76
+IUT_Mécanique                              2 Toulon                    10 50 78 80 48 59 95 72 39 76 98
+IUT_Génie_Industriel                       3 Amiens                    11 71 86 34 72 11 39 76 21 14 53 10
+IUT_Génie_Industriel                       2 Tours                     10 42 59 71 86 72 15 32 21 14 10
+IUT_Génie_Industriel                       2 Versailles                21  7 47 27 54 63 57  0 55 59 71 95 72 15  6 39 76 32 21 14 53 10
+IUT_Chimie                                 2 Évry                      14 37  4 60 90 59 71 34 15 11 39 32 98 14 53
+IUT_Génie_Industriel                       2 Caen                       7 95 86 15  6 11 32 10
+IUT_Informatique                           2 Angers                    12 42 71 95 86 72 15 11 39 32 98 21 53
+IUT_Informatique                           2 Lille                     10 86 34 72 15  6 39 76 21 53 10
+IUT_Environnement                          2 Amiens                     7 71 95 86  6 11 32 10
+IUT_Électronique                           1 Paris                     22  7 47 37 27 54 63  4 60 90 57  0 55 59 71 86 15  6 32 98 21 14 53
+IUT_Mécanique                              1 Orléans                    8 59 34  6 11 39 14 53 10
+IUT_Informatique                           1 Mulhouse                  10 78 59 95 72  6 11 76 98 21 14

@@ -1,0 +1,39 @@
+# Travis continuous integration descriptor
+# Author: Sebastien Mosser [mosser@i3s.unice.fr]
+
+language: java
+
+# Install npm to install gitinspector
+addons:
+  apt:
+    packages:
+    - npm
+
+# Avoid ressource cloning for each build
+git:
+  submodules: false
+
+# Cache npm modules for git inspector
+cache:
+    directories:
+     - $HOME/.npm
+
+# Running maven without noise
+script:
+  - mvn -q clean install
+
+# If the build succeeds, run PMD to check java code
+after_success:
+  - wget https://github.com/pmd/pmd/releases/download/pmd_releases%2F6.10.0/pmd-bin-6.10.0.zip
+  - unzip pmd-bin-6.10.0.zip
+  - echo -e "## APB analysis"
+  - $PWD/pmd-bin-6.10.0/bin/run.sh pmd -d arguments/src/main/java/ -R rulesets/java/quickstart.xml -f text
+  - echo -e "## ParcourSup analysis"
+  - $PWD/pmd-bin-6.10.0/bin/run.sh pmd -d parcoursup/src/main/java/ -R rulesets/java/quickstart.xml -f text
+  - echo -e "## Commons analysis"
+  - $PWD/pmd-bin-6.10.0/bin/run.sh pmd -d commons_ext/src/main/java/ -R rulesets/java/quickstart.xml -f text
+
+# In any case, run GitInspector to monitor code ownership in the project
+after_script:
+    - npm i -g gitinspector
+    - gitinspector --grading
